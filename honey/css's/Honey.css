@@ -19,7 +19,7 @@ body{
     border: 2px solid #d236e3; /* Borde azul */
     border-radius: 8px; /* Esquinas redondeadas */
     padding: 15px; /* Espaciado interno */
-    background-image: url(images/bla.jpeg);
+    background-image: url(../images/bla.jpeg);
     background-size: 93px;
     box-shadow: 0 2px 5px rgba(74, 23, 169, 0.1); /* Sombra suave */
     max-width: 93px; /* Ancho máximo del cuadro */
